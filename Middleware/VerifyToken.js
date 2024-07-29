@@ -1,7 +1,7 @@
 const VendorModel = require("../Models/VendorModel")
 const jwt = require("jsonwebtoken")
 const dotenv = require("dotenv")
-const { message } = require("prompt")
+
 
 
 dotenv.config()
