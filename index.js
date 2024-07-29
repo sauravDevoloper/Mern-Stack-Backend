@@ -37,5 +37,5 @@ app.listen(port,()=>{
 })
 
 app.use("/", (req,res)=>{
-    res.status(200).send("<h1>welcome</h1>")
+    res.status(200).send("<h1>MULTI VENDOR MERN STACK APPLICATION</h1>")
 })
