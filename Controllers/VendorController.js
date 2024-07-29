@@ -1,5 +1,5 @@
 
-const { message } = require("prompt")
+
 const VendorModel = require("../Models/VendorModel")
 const bcrypt = require("bcryptjs")
 const jwt = require("jsonwebtoken")

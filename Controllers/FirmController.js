@@ -1,9 +1,9 @@
-const { message } = require("prompt");
+
 const FirmModel = require("../Models/FirmModel")
 const VendorModel = require("../Models/VendorModel")
 const multer = require("multer")
 const path = require("path");
-const { error } = require("console");
+
 
 
 // Set storage engine for Multer

@@ -2,7 +2,7 @@ const ProductModel = require("../Models/ProductModel")
 const FirmModel = require('../Models/FirmModel')
 const multer = require("multer")
 const path = require("path");
-const { message } = require("prompt");
+
 
 
 // Set storage engine for Multer
